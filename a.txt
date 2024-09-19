@@ -1,1 +1,2 @@
 git 연습하는 a파일입니다.
+conflict유도

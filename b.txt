@@ -1,0 +1,7 @@
+git 연습하는 b파일입니다.
+git 연습하는 b파일입니다.
+a파일입니다a
+a파일입니다a
+
+aaaaa
+aaaaa
